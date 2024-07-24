@@ -1,6 +1,5 @@
 # Calculator
 
-![Calculator Banner](Screenshots/banner.png)
 
 ## About the Calculator App by Mohammad Ahmad
 
