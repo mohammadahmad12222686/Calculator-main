@@ -2,9 +2,9 @@
 
 ![Calculator Banner](Screenshots/banner.png)
 
-## About the Calculator App by Pabitra Banerjee
+## About the Calculator App by Mohammad Ahmad
 
-The Calculator app, developed by Pabitra Banerjee, is a versatile and feature-rich tool designed to cater to a wide range of mathematical needs. This lightweight and open-source application is crafted with a focus on user privacy, usability, and functionality. Here's a closer look at what makes this app stand out:
+The Calculator app, developed by Mohammad Ahmad, is a versatile and feature-rich tool designed to cater to a wide range of mathematical needs. This lightweight and open-source application is crafted with a focus on user privacy, usability, and functionality. Here's a closer look at what makes this app stand out:
 
 ## Calculator App Features
 
@@ -53,13 +53,10 @@ This lightweight calculator app offers a robust and versatile user experience wh
 - **Function Addition with Multiplication**: Automatically adds a multiplication operator when functions or constants are added to ensure correct expression formatting.
 - **Auto Bracket Closure**: Ensures that opened parentheses are closed appropriately to prevent syntax errors.
 
-## About the Developer
-
-Pabitra Banerjee, a Full-Stack AI Engineer and the Founder & CEO of MB WEBBER'S, is known for his dedication to spreading science and technology among the common people. With a passion for astrophysics and mathematics, Pabitra actively engages in creating innovative solutions that bridge the gap between technology and everyday life. This calculator app is a testament to his commitment to developing practical and user-centric applications.
 
 ## Technologies Used in the Calculator Project
 
-The Calculator app developed by Pabitra Banerjee leverages a range of technologies and dependencies to deliver a seamless and efficient user experience. Here’s a breakdown of the key technologies and packages used in this project as specified in the `pubspec.yaml` file:
+The Calculator app developed by Mohammad Ahmad leverages a range of technologies and dependencies to deliver a seamless and efficient user experience. Here’s a breakdown of the key technologies and packages used in this project as specified in the `pubspec.yaml` file:
 
 ### Flutter SDK
 - **Flutter**: The primary framework used for developing the app, allowing for a natively compiled application for mobile, web, and desktop from a single codebase.
@@ -113,12 +110,12 @@ The Calculator app developed by Pabitra Banerjee leverages a range of technologi
 
 ## Installation and Usage
 
-Installing and using the Calculator app by Pabitra Banerjee is simple and straightforward. You can get the app from the Amazon AppStore and Indus AppStore. Alternatively, you can download it from the [GitHub Repository](https://github.com/PB2204/Calculator) where the installation URL is provided.
+Installing and using the Calculator app by Mohammad Ahmad is simple and straightforward. You can get the app from the Amazon AppStore and Indus AppStore. Alternatively, you can download it from the [GitHub Repository](https://github.com/PB2204/Calculator) where the installation URL is provided.
 
 ### Steps to Install and Use the Calculator App:
 
 1. **Download the App**:
-   - Visit the Amazon AppStore or Indus AppStore and search for "Calculator by Pabitra Banerjee".
+   - Visit the Amazon AppStore or Indus AppStore and search for "Calculator by Mohammad Ahmad".
    - Alternatively, go to the [GitHub Repository](https://github.com/PB2204/Calculator) and download the app using the provided installation URL.
 
 2. **Install the App**:
@@ -170,10 +167,10 @@ If you find any bugs or have any feature requests, please open an issue in the [
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the developer: [Pabitra Banerjee](https://github.com/PB2204)
+For any questions or suggestions, feel free to reach out to the developer: [Mohammad Ahmad](https://github.com/PB2204)
 
-LinkedIn: [Pabitra Banerjee](https://linkedin.com/in/pabitra-banerjee)
-Email: [Pabitra Banerjee](mailto:rockstarpabitra2204@gmail.com)
+LinkedIn: [Mohammad Ahmad](https://linkedin.com/in/pabitra-banerjee)
+Email: [Mohammad Ahmad](mailto:rockstarpabitra2204@gmail.com)
 
 ## License
 
