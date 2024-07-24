@@ -108,41 +108,6 @@ The Calculator app developed by Mohammad Ahmad leverages a range of technologies
   - The app uses the "Inter" font family with multiple weights for a rich and diverse typography experience.
   - Font files are included in the `assets/fonts/` directory with various weights from Regular to Black.
 
-## Installation and Usage
-
-Installing and using the Calculator app by Mohammad Ahmad is simple and straightforward. You can get the app from the Amazon AppStore and Indus AppStore. Alternatively, you can download it from the [GitHub Repository](https://github.com/PB2204/Calculator) where the installation URL is provided.
-
-### Steps to Install and Use the Calculator App:
-
-1. **Download the App**:
-   - Visit the Amazon AppStore or Indus AppStore and search for "Calculator by Mohammad Ahmad".
-   - Alternatively, go to the [GitHub Repository](https://github.com/PB2204/Calculator) and download the app using the provided installation URL.
-
-2. **Install the App**:
-   - Follow the on-screen instructions to install the app on your device.
-
-3. **Start Using the App**:
-   - Open the app after installation.
-   - You will be greeted with a clean and user-friendly interface.
-   - Begin your calculations by entering numbers and operators directly into the input field.
-   - Utilize the advanced functions and features, such as trigonometric calculations, logarithms, and constants, as needed.
-
-### Key Features in Usage:
-
-- **Light and Dark Modes**: Switch between light and dark themes to suit your preference.
-- **History Functionality**: Access your previous calculations with ease, enabling you to refer back to past results.
-- **Dynamic Font Size**: Enjoy a clear and readable display, as the input font size adjusts based on the length of your expression.
-- **Scrollable Input Field**: Manage longer expressions efficiently with a scrollable input field.
-- **Toggle Angle Units**: Easily switch between radian and degree modes for trigonometric calculations.
-
-### Advanced Usage:
-
-- **Mathematical Functions**: Perform complex calculations using functions like `sin`, `cos`, `tan`, logarithms, exponentiation, and more.
-- **Constants**: Use constants such as π and `e` directly in your calculations.
-- **Smart Bracket Management**: Handle parentheses effortlessly to ensure accurate and error-free expressions.
-- **Change Sign**: Quickly change the sign of numbers within your expressions.
-
-By following these steps, you can start using the Calculator app to handle all your mathematical needs with ease and precision.
 
 ## Screenshots
 
@@ -157,20 +122,9 @@ By following these steps, you can start using the Calculator app to handle all y
 
 We welcome contributions to MightyMines! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-## Code of Conduct
 
-Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
-## Issues
-
-If you find any bugs or have any feature requests, please open an issue in the [Issues section](https://github.com/PB2204/Calculator/issues).
-
-## Contact
-
-For any questions or suggestions, feel free to reach out to the developer: [Mohammad Ahmad](https://github.com/PB2204)
-
-LinkedIn: [Mohammad Ahmad](https://linkedin.com/in/pabitra-banerjee)
-Email: [Mohammad Ahmad](mailto:rockstarpabitra2204@gmail.com)
+LinkedIn: [Mohammad Ahmad](https://www.linkedin.com/in/mohammad-ahmad-925491219/)
+Email: [Mohammad Ahmad](mailto:itsmeummati@gmail.com)
 
 ## License
 
