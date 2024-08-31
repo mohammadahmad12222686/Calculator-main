@@ -111,9 +111,7 @@ The Calculator app developed by Mohammad Ahmad leverages a range of technologies
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
   <img src="Screenshots/image3.png" width="24%" />
-
   <img src="Screenshots/image5.png" width="24%" />
 </div>
 
